@@ -1,0 +1,36 @@
+﻿Column,Content,Links,Author,Color,Likes,Stickers
+Điều gì chúng ta đã làm tốt,Chất lượng code được cải thiện nhờ tuân thủ codinh convention và thực hiện code review,,Duy,blue,0,
+Điều gì chúng ta đã làm tốt,Tham gia đầy đủ các buổi daily scrum và cập nhật tiến độ công việc rõ ràng,,Duy,blue,0,
+Điều gì chúng ta đã làm tốt,Phối hợp tốt với các thành viên trong nhóm khi xử lý các vấn đề phát sinh,,Duy,blue,0,
+Điều gì chúng ta đã làm tốt,Chủ động tìm hiểu và áp dụng các công nghệ mới trong dự án,,Duy,blue,0,
+Điều gì chúng ta đã làm tốt,"Hoàn thành đủ các task được giao và có cơ hội được demo
+",,Nghiêm Tuấn Linh,blue,0,
+Điều gì chúng ta đã làm tốt,"Chất lượng code được cải thiện nhờ tuân thủ coding convention và thực hiện code review.
+
+",,Duy,blue,0,
+Điều gì chúng ta đã làm tốt,"Biết các nguồn tài nguyên open source, biết chunking, retrieval và đánh giá với các framework như RAGAS",,Nghiêm Tuấn Linh,blue,0,
+Điều gì chúng ta/chương trình chưa làm tốt?,Thời gian dành cho việc viết tài liệu kỹ thuật còn hạn chế.,,Duy,pink,0,
+Điều gì chúng ta/chương trình chưa làm tốt?,Code review và review tài liệu chưa đều giữa các thành viên.,,Trần Văn Khoa - 2A202600827,pink,0,
+Điều gì chúng ta/chương trình chưa làm tốt?,Dễ bị mất tập trung làm ảnh hưởng đến flow trong giờ làm việc,,Nghiêm Tuấn Linh,pink,0,
+Điều gì chúng ta/chương trình chưa làm tốt?,Giao tiếp chưa tốt giữa các thành viên trong nhóm,,Nghiêm Tuấn Linh,pink,0,
+Điều gì chúng ta/chương trình chưa làm tốt?,"Estimate task chưa chính xác, nhiều việc tưởng nhỏ nhưng kéo dài vì dependency, env hoặc edge case.
+",,Trần Văn Khoa - 2A202600827,pink,0,
+Có những ý tưởng nào chúng ta muốn triển khai sắp tới?,Chuẩn hóa quy trình code review và checklist trước khi merge.,,Duy,green,0,
+Có những ý tưởng nào chúng ta muốn triển khai sắp tới?,"Tổ chức các buổi chia sẻ kiến thức nội bộ về Spring Boot, Security hoặc React.",,Duy,green,0,
+Có những ý tưởng nào chúng ta muốn triển khai sắp tới?,Cải thiện logging và monitoring để dễ dàng theo dõi lỗi hệ thống.,,Duy,green,0,
+Có những ý tưởng nào chúng ta muốn triển khai sắp tới?,Tăng tỷ lệ Unit Test và Integration Test cho các chức năng quan trọng.,,Duy,green,0,
+Có những ý tưởng nào chúng ta muốn triển khai sắp tới?,"Làm release checklist chung: test, lint, build, migrate, seed, health check, demo login.
+",,Trần Văn Khoa - 2A202600827,green,0,
+Có những ý tưởng nào chúng ta muốn triển khai sắp tới?,"Tự động hóa eval cho AI assistant và chặn release nếu regression.
+Hoàn thiện RAG với citation, metadata filtering, reranking và guardrail từ chối khi thiếu evidence.
+Tạo demo script/storyline cố định để cả nhóm trình bày thống nhất.",,Trần Văn Khoa - 2A202600827,green,0,
+Những điều chúng ta còn trăn trở,khung giờ cho các buổi workshop diễn ra khá sớm,,Khoa,yellow,1,
+Những điều chúng ta còn trăn trở,Khối lượng công việc giữa các thành viên đôi khi chưa cân bằng.,,Duy,yellow,0,
+Những điều chúng ta còn trăn trở,Một số yêu cầu thay đổi trong quá trình Sprint ảnh hưởng đến kế hoạch ban đầu,,Khoa,yellow,0,
+Những điều chúng ta còn trăn trở,Khối lượng công việc giữa các thành viên đôi khi chưa cân bằng.,,Duy,yellow,1,
+Những điều chúng ta còn trăn trở,"Làm sao cân bằng giữa hoàn thiện kỹ thuật và kịp deadline demo?
+Khi nào nên ưu tiên code chạy được, khi nào nên đầu tư refactor/architecture?
+Mức độ production-ready cần đạt là bao nhiêu cho một MVP trong chương trình?
+Làm sao chia việc để frontend, backend, data và AI không chờ nhau quá nhiều?
+Làm sao giữ tài liệu, seed data và code luôn đồng bộ?
+Nên đo chất lượng AI bằng metric nào để mentor và team đều tin được?",,Trần Văn Khoa - 2A202600827,yellow,0,
